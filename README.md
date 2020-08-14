@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats-orcin-pi.vercel.app/api?username=zerrium&hide=stars&count_private=true&show_icons=true" />
-</a><br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats-orcin-pi.vercel.app/api/top-langs/?username=zerrium&count_private=true&layout=compact" />
 </a><br>
 Note: this most used language stats card doesn't indicate my programing language skill, it is just what programing languages I used the most for my private/public repos (including forked repos)
