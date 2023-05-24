@@ -4,7 +4,7 @@
 **zerrium/zerrium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-- 🌱 I’m currently learning Javascript (ExpressJS, NodeJS, ReactJS)
+<!-- - 🌱 I’m currently learning Javascript (ExpressJS, NodeJS, ReactJS) -->
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ... -->
